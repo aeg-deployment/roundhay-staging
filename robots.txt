@@ -1,0 +1,8 @@
+# robots.txt for https://roundhay-staging.pages.dev
+
+Sitemap: https://roundhay-staging.pages.dev/sitemap.xml
+
+# not production - disallow all
+
+User-agent: *
+Disallow: /
