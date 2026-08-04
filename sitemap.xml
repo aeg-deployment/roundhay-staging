@@ -3,6 +3,14 @@
 
 
 <url>
+  <loc>https://roundhay-staging.pages.dev/events/all-things-orchestral-and-roundhay-afterparty-sun-5-july</loc>
+  <lastmod>2026-07-05T20:54:24+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
   <loc>https://roundhay-staging.pages.dev/artists/pitbull</loc>
   <lastmod>2025-10-03T08:02:33+01:00</lastmod>
   <changefreq>weekly</changefreq>
@@ -20,7 +28,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/events/pitbull-fri-3-july</loc>
-  <lastmod>2026-01-20T09:17:59+00:00</lastmod>
+  <lastmod>2026-07-04T03:29:39+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -28,7 +36,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/events/lewis-capaldi-sat-4-july</loc>
-  <lastmod>2026-01-08T14:09:55+00:00</lastmod>
+  <lastmod>2026-07-05T09:38:50+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -36,7 +44,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/info-landing</loc>
-  <lastmod>2026-01-20T09:16:37+00:00</lastmod>
+  <lastmod>2026-08-04T10:53:58+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -44,7 +52,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/partners</loc>
-  <lastmod>2025-10-03T10:28:19+01:00</lastmod>
+  <lastmod>2026-08-04T10:53:59+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -52,7 +60,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/line-up</loc>
-  <lastmod>2026-01-14T14:10:11+00:00</lastmod>
+  <lastmod>2026-08-04T10:53:58+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -60,7 +68,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/tickets</loc>
-  <lastmod>2026-01-08T14:14:07+00:00</lastmod>
+  <lastmod>2026-08-04T10:53:59+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -68,7 +76,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/</loc>
-  <lastmod>2026-05-06T15:06:34+01:00</lastmod>
+  <lastmod>2026-08-04T10:53:58+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -84,15 +92,15 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/terms-conditions</loc>
-  <lastmod>2026-01-12T14:41:38+00:00</lastmod>
+  <lastmod>2026-06-25T12:27:38+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/in-event/sabrina-in-event</loc>
-  <lastmod>2025-10-02T09:36:51+01:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/in-event/pitbull-in-event</loc>
+  <lastmod>2026-07-02T14:54:35+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -100,7 +108,7 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/info-details/general-info</loc>
-  <lastmod>2025-12-16T14:02:25+00:00</lastmod>
+  <lastmod>2026-06-28T13:08:00+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -115,8 +123,8 @@
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/in-event/lewis-capaldi-inevent</loc>
-  <lastmod>2025-10-02T09:36:15+01:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/in-event/lewis-in-event</loc>
+  <lastmod>2026-07-04T03:31:36+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -132,7 +140,15 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/info-details/ticket-info</loc>
-  <lastmod>2025-10-23T13:19:06+01:00</lastmod>
+  <lastmod>2026-05-07T09:40:00+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-travel-survey</loc>
+  <lastmod>2026-04-23T11:20:08+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -140,15 +156,31 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/privacy-policy</loc>
-  <lastmod>2025-11-26T11:20:29+00:00</lastmod>
+  <lastmod>2026-05-06T15:26:32+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/info-details/transportation</loc>
-  <lastmod>2025-12-11T10:59:55+00:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/in-event/ato-in-event</loc>
+  <lastmod>2026-07-05T09:44:46+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/info-details/app</loc>
+  <lastmod>2026-05-11T09:51:19+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-travel-competition</loc>
+  <lastmod>2026-04-23T12:44:52+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -156,15 +188,23 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/nimbus-access-card</loc>
-  <lastmod>2025-10-22T13:45:53+01:00</lastmod>
+  <lastmod>2026-01-23T18:39:31+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/info-details/accessibility</loc>
-  <lastmod>2026-01-13T14:44:52+00:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/info-details/transportation</loc>
+  <lastmod>2026-06-26T12:45:34+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-survey</loc>
+  <lastmod>2026-05-18T14:56:34+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -179,8 +219,24 @@
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/info-details/care-and-safety</loc>
-  <lastmod>2025-10-02T14:20:42+01:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/info-details/accessibility</loc>
+  <lastmod>2026-06-24T09:45:52+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-ticketholders-survey</loc>
+  <lastmod>2026-05-18T15:18:49+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/info-details/community-hub</loc>
+  <lastmod>2026-07-09T12:36:43+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -195,8 +251,8 @@
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/info-details/our-commitments</loc>
-  <lastmod>2025-10-23T13:15:11+01:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/2026-ticketholder-competition</loc>
+  <lastmod>2026-05-18T14:56:30+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -211,8 +267,16 @@
 
 
 <url>
-  <loc>https://roundhay-staging.pages.dev/info-details/get-in-touch</loc>
-  <lastmod>2026-01-12T11:35:22+00:00</lastmod>
+  <loc>https://roundhay-staging.pages.dev/info-details/care-and-safety</loc>
+  <lastmod>2026-04-30T11:24:38+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-non-ticketholder-competition</loc>
+  <lastmod>2026-05-18T14:56:28+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
@@ -220,7 +284,103 @@
 
 <url>
   <loc>https://roundhay-staging.pages.dev/community</loc>
-  <lastmod>2025-12-19T11:21:23+00:00</lastmod>
+  <lastmod>2026-01-20T10:01:14+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/info-details/our-commitments</loc>
+  <lastmod>2026-04-30T11:25:22+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-event-survey</loc>
+  <lastmod>2026-05-18T15:17:27+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/info-details/get-in-touch</loc>
+  <lastmod>2026-06-24T17:09:48+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/all-things-orchestral-presale-signup</loc>
+  <lastmod>2026-06-03T10:33:21+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/vip-hospitality</loc>
+  <lastmod>2026-04-30T16:18:01+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-pre-event-survey</loc>
+  <lastmod>2026-06-23T11:24:24+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/roundhay-survey-competition</loc>
+  <lastmod>2026-06-25T14:15:20+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/all-things-orchestral-roundhay-presale</loc>
+  <lastmod>2026-06-03T16:55:06+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-post-event-survey</loc>
+  <lastmod>2026-07-08T15:42:06+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/2026-maps</loc>
+  <lastmod>2026-06-19T13:56:32+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/post-event-survey-competition</loc>
+  <lastmod>2026-07-08T15:48:02+01:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://roundhay-staging.pages.dev/local-residents-offer</loc>
+  <lastmod>2026-06-27T11:22:53+01:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
